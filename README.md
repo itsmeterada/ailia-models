@@ -1,4 +1,4 @@
-<img src="ailia-models_A_241211.png">
+[<img src="ailia-models_A_241211.png">](ABOUT_AINYAN.md)
 
 The collection of pre-trained, state-of-the-art AI models.
 
